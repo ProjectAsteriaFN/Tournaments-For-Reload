@@ -1,0 +1,37 @@
+ "tournamentinformation": {
+    "tournament_info": {
+      "tournaments": [
+        {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "https://i.imgur.com/eed6kpg.jpeg",
+          "background_text_color": "BF40BF",
+          "background_right_color": "BF40BF",
+          "poster_back_image": "https://i.imgur.com/eed6kpg.jpeg",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Quated and Andingly are winners!",
+          "tournament_display_id": "EraTournament",
+          "highlight_color": "BF40BF",
+          "schedule_info": "March 10th",
+          "primary_color": "FFFFFF",
+          "flavor_description": "",
+          "poster_front_image": "https://i.imgur.com/eed6kpg.jpeg",
+          "short_format_title": "Event Sessions",
+          "title_line_1": "Test Tournament",
+          "shadow_color": "BF40BF",
+          "details_description": "",
+          "background_left_color": "F81B2D",
+          "long_format_title": "",
+          "poster_fade_color": "BF40BF",
+          "secondary_color": "BF40BF",
+          "playlist_tile_image": "https://i.imgur.com/eed6kpg.jpeg",
+          "base_color": "FFFFFF"
+        }
+      ],
+      "_type": "Tournaments Info"
+    },
+    "_title": "tournamentinformation",
+    "_noIndex": false,
+    "_activeDate": "2025-01-01T00:00:00.734Z",
+    "lastModified": "2025-01-01T00:00:00.734Z",
+    "_locale": "en-US"
+  },
